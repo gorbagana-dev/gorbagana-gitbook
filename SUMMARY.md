@@ -9,7 +9,7 @@
 ## Network History
 
 * [Project Origins](network-history/project-origins.md)
-* [Testnet v1](network-history/testnet-v1.md)
+* [Testnet v1 (Concluded)](network-history/testnet-v1-concluded.md)
 
 ***
 

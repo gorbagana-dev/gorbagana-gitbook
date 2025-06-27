@@ -14,7 +14,7 @@ description: Don't let them steal your trash, only use these links!
 * **Website:** [https://gorbagana.wtf/](https://explorer.gorbagana.wtf/)
 * **Telegram:** [Official Community Chat](https://t.me/gorbagana_portal)
 
-### &#x20;Core Team & Contributors
+### &#x20;🤝Core Team & Contributors
 
 * [**@lex\_node**](https://x.com/lex_node) - Project Catalyst and Vision
 * [**@Sarv\_shaktiman**](https://x.com/Sarv_shaktiman) - Lead
@@ -25,7 +25,7 @@ description: Don't let them steal your trash, only use these links!
 * [**@Ec1ipse\_sol**](https://x.com/ec1ipse_sol) - Community Management
 * [**@Davidsidle**](https://x.com/davidsidol) - NFT Development Team
 
-### **Infra and Validator Security:**
+### **🔒Infra and Validator Security:**
 
 * Mojave Labs ([**@CLI\_App**](https://x.com/CLI_App))
 * Laconic ([**@laconicnetwork**](https://x.com/laconicnetwork))
@@ -34,7 +34,7 @@ description: Don't let them steal your trash, only use these links!
 * [**@savageapi**](https://x.com/savageapi)
 * [**@TheTokenSensei**](https://x.com/thetokensensei)
 
-### **Trash Council Members**
+### 🗑**Trash Council Members**
 
 * [**@lex\_node**](https://x.com/lex_node)
 * [**@neogio3d**](https://x.com/neogio3d)
