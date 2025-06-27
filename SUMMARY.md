@@ -10,9 +10,6 @@
 
 * [Project Origins](network-history/project-origins.md)
 * [Testnet v1 (Concluded)](network-history/testnet-v1-concluded.md)
-
-***
-
 * [Testnet v2 (Devnet)](testnet-v2-devnet.md)
 * [Mainnet (In development)](mainnet-in-development.md)
 
