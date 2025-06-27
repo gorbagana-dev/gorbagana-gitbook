@@ -25,9 +25,6 @@ jobs:
     - name: Install HonKit
       run: npm install -g honkit
         
-    - name: Install GitBook plugins
-      run: honkit install
-        
     - name: Build with HonKit
       run: honkit build . _book
       
