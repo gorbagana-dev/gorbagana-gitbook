@@ -1,5 +1,7 @@
 # Explorer & Tools
 
+### Official RPC endpoint: `https://rpc.gorbagana.wtf/`
+
 ### Network Explorer
 
 **Gorbagana Block Explorer**: [https://explorer.gorbagana.wtf/](https://explorer.gorbagana.wtf/)
