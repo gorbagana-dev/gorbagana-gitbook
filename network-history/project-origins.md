@@ -4,7 +4,7 @@ description: How did Gorbagana come to be?
 
 # Project Origins
 
-What started as peak crypto Twitter banter between Solana co-founder Anatoly Yakovenko ([@aeyakovenko](https://x.com/aeyakovenko)) and Metalex developer Lex\_Node ([@lex\_node](https://x.com/lex_node)) about casually forking Solana became a quickly deployed blockchain to prove a point between developers. ([@Sarv\_shaktiman](https://x.com/Sarv_shaktiman)), a prominent Milady developer, took this as a challenge and decided to go forward with the idea and was able to Fork and Deploy a success Solana fork in under 22 hours, completing the challenge laid out.
+What started as peak crypto Twitter banter between Solana co-founder Anatoly Yakovenko ([@aeyakovenko](https://x.com/aeyakovenko)) and Metalex developer Lex\_Node ([@lex\_node](https://x.com/lex_node)) about casually forking Solana became a quickly deployed blockchain to prove a point between developers. ([@Sarv\_shaktiman](https://x.com/Sarv_shaktiman)), a prominent Milady developer, took this as a challenge and decided to go forward with the idea and was able to Fork and Deploy a successful Solana fork in under 22 hours, completing the challenge laid out.
 
 ## The 24-Hour Sprint That Changed Everything
 
