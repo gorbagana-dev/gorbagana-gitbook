@@ -1,14 +1,11 @@
 name: Build and Deploy with HonKit
-
 on:
   push:
     branches: [ main ]
-
 permissions:
   contents: write
   pages: write
   id-token: write
-
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
@@ -26,7 +23,7 @@ jobs:
       run: npm install -g honkit
         
     - name: Build with HonKit
-      run: honkit build . _book
+      run: honkit build --reload . _book
       
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v4
