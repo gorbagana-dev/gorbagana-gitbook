@@ -3,8 +3,6 @@ name: Build and Deploy GitBook
 on:
   push:
     branches: [ main ]
-  pull_request:
-    branches: [ main ]
 
 jobs:
   build-and-deploy:
@@ -12,17 +10,17 @@ jobs:
     
     steps:
     - name: Checkout
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
       
     - name: Setup Node.js
-      uses: actions/setup-node@v3
+      uses: actions/setup-node@v4
       with:
-        node-version: '16'
+        node-version: '14' # 16 no workie, let's try 14
         
     - name: Install GitBook CLI
       run: |
-        npm install -g gitbook-cli
-        gitbook install
+        npm install -g gitbook-cli --force
+        gitbook fetch 3.2.3
         
     - name: Build GitBook
       run: gitbook build
