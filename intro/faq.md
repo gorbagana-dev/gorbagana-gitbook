@@ -18,7 +18,7 @@ When interacting with the Bridging Contract, your tokens will be locked in escro
 
 ### What are the Gorbagio NFTs for and what utility do they have?
 
-This NFT collection will be your pass to the elite ranks of the Gorbagana ecosystem, strongly encouraged to be used by Gorchain apps for airdrops and perks. These NFT's are expected to be the first bridgeable collection from Solana to Gorbagana.
+This NFT collection will be your pass to the elite ranks of the Gorbagana ecosystem, strongly encouraged to be used by Gorchain apps for airdrops and perks. These NFT's are expected to be the first bridgeable collection from Solana to Gorbagana and have the potential to allow our community to test out some features before public releases.
 
 ### Which wallets support Gorbagana?
 
