@@ -1,12 +1,13 @@
 {
   "title": "Gorbagana Documentation",
   "description": "High-performance blockchain network documentation",
+  "plugins": ["theme-api"],
   "structure": {
     "readme": "README.md",
     "summary": "SUMMARY.md"
   },
   "pluginsConfig": {
-    "theme-default": {
+    "theme-api": {
       "showLevel": true
     }
   }
