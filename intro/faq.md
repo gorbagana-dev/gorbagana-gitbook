@@ -26,11 +26,106 @@ This NFT collection will be your pass to the elite ranks of the Gorbagana ecosys
 
 ### How do I purchase a Gorbagio NFT?
 
-{% embed url="https://magiceden.us/marketplace/gorbagio" %}
+<div class="marketplace-links">
+  <a href="https://magiceden.us/marketplace/gorbagio" class="marketplace-card" target="_blank">
+    <div class="card-content">
+      <div class="card-icon" style="background: linear-gradient(45deg, #e439ff, #ff6b9d);">
+        ME
+      </div>
+      <div class="card-text">
+        <h4>Magic Eden - Gorbagio Collection</h4>
+        <p>Browse and purchase Gorbagio NFTs on Magic Eden</p>
+      </div>
+    </div>
+  </a>
 
-{% embed url="https://www.tensor.trade/trade/gorbagio" %}
+  <a href="https://www.tensor.trade/trade/gorbagio" class="marketplace-card" target="_blank">
+    <div class="card-content">
+      <div class="card-icon" style="background: linear-gradient(45deg, #00d4ff, #4a9eff);">
+        T
+      </div>
+      <div class="card-text">
+        <h4>Tensor - Gorbagio Trading</h4>
+        <p>Advanced trading and analytics for Gorbagio NFTs</p>
+      </div>
+    </div>
+  </a>
+</div>
+
+<style>
+.marketplace-links {
+  margin: 20px 0;
+}
+
+.marketplace-card {
+  display: block;
+  background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%);
+  border: 1px solid #404040;
+  border-radius: 12px;
+  padding: 20px;
+  margin-bottom: 16px;
+  text-decoration: none;
+  color: white;
+  transition: all 0.3s ease;
+  position: relative;
+  overflow: hidden;
+}
+
+.marketplace-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 25px rgba(0,0,0,0.4);
+  border-color: #606060;
+}
+
+.marketplace-card:before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 2px;
+  background: linear-gradient(90deg, #e439ff, #00d4ff);
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.marketplace-card:hover:before {
+  opacity: 1;
+}
+
+.card-content {
+  display: flex;
+  align-items: center;
+}
+
+.card-icon {
+  width: 56px;
+  height: 56px;
+  margin-right: 20px;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 20px;
+  font-weight: bold;
+  color: white;
+  text-shadow: 0 2px 4px rgba(0,0,0,0.3);
+}
+
+.card-text h4 {
+  margin: 0 0 6px 0;
+  font-size: 18px;
+  font-weight: 600;
+  color: white;
+}
+
+.card-text p {
+  margin: 0;
+  font-size: 14px;
+  color: #b0b0b0;
+}
+</style>
 
 ### Which wallets support Gorbagana?
 
 Currently, [Backpack](https://backpack.app/) is the primary supported wallet. Major Solana wallets like Phantom, Solflare, and others don't support custom chains yet. You'll need to use Backpack with the custom RPC feature to connect to the network. For help accessing the network, please see '[Connecting to Testnet](../network-access/connecting-to-testnet.md)'.
-
