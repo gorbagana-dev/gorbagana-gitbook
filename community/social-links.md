@@ -52,7 +52,7 @@ description: Don't let them steal your trash, only use these links!
   * **Wallet 1:** [29gpCwH26oEFyqKe25KAM39VjeBhDWWHztoeuk4cZoM1](https://solscan.io/account/29gpCwH26oEFyqKe25KAM39VjeBhDWWHztoeuk4cZoM1)
   * **Wallet 2:** [3Cr1uptw6zAroHQskpPs4WJdZRrev8gHtEovNSTuR9nL](https://solscan.io/account/3Cr1uptw6zAroHQskpPs4WJdZRrev8gHtEovNSTuR9nL)
   * **Wallet 3:** [HknTjma28QSjweSLAPsMxpC1cqXxhq2RgzT753PDpCQN](https://solscan.io/account/HknTjma28QSjweSLAPsMxpC1cqXxhq2RgzT753PDpCQN)
-* **GitHub:** Current build in private development
+* **GitHub:** [https://github.com/gorbagana-dev](https://github.com/gorbagana-dev)
 
 ### 📢 Stay Updated
 

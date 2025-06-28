@@ -16,6 +16,10 @@ Upon Mainnet release, there will be an available bridge contract to move $GOR fr
 
 When interacting with the Bridging Contract, your tokens will be locked in escrow on the origin chain and an equivalent amount is minted/released on the destination chain - tokens aren't destroyed, just moved between ecosystems.
 
+### I am working on a project, how do I obtain more $GOR on testnet?
+
+While you are welcome to utilize our [Faucet](https://faucet.gorbagana.wtf/), if you need a larger amount for deploying and testing, please create a twitter post tagging [@gorbagana_chain](https://x.com/Gorbagana_chain) referencing the application you are building with your Github link as well as a wallet address for us to send more testnet tokens!
+
 ### What are the Gorbagio NFTs for and what utility do they have?
 
 This NFT collection will be your pass to the elite ranks of the Gorbagana ecosystem, strongly encouraged to be used by Gorchain apps for airdrops and perks. These NFT's are expected to be the first bridgeable collection from Solana to Gorbagana and have the potential to allow our community to test out some features before public releases.

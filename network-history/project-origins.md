@@ -11,8 +11,8 @@ What started as peak crypto Twitter banter between Solana co-founder Anatoly Yak
 * **Hour 0:** Anatoly Yakovenko casually suggests forking his own blockchain on crypto Twitter in reference to Lex_Nodes tweet, mentioning a 48 hour deadline as a challenge.
 * **Hour 6:** $GOR meme token launches on Solana blockchain via Pump.fun. (71Jvq4Epe2FCJ7JFSF7jLXdNk1Wy4Bhqd9iL6bEFELvg)
 * **Hour 12:** A twitter user remembers the 2022 SQLChain meme and pushes for a launch.
-* **Hour 18:** ([@Sarv\_shaktiman](https://x.com/Sarv_shaktiman)) started reverse-engineering Solana's architecture and building to launch Testnet v1.
-* **Hour 22:** Testnet v1 Gorbagana validator goes live.
+* **Hour 18:** [@Sarv\_shaktiman](https://x.com/Sarv_shaktiman) started reverse-engineering Solana's architecture and building to launch Testnet v1.
+* **Hour 22:** [Testnet v1](https://x.com/sarv_shaktiman/status/1935898043389198431) Gorbagana validator goes live. 
 
 ## What was built
 
