@@ -45,8 +45,8 @@ This NFT collection will be your pass to the elite ranks of the Gorbagana ecosys
         T
       </div>
       <div class="card-text">
-        <h4>Tensor - Gorbagio Trading</h4>
-        <p>Advanced trading and analytics for Gorbagio NFTs</p>
+        <h4>Tensor - Gorbagio Collection</h4>
+        <p>Browse and purchase Gorbagio NFTs on Tensor</p>
       </div>
     </div>
   </a>
