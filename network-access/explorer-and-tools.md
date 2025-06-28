@@ -31,7 +31,7 @@ Comprehensive technical documentation including:
 
 **Gorbagana Testnet Faucet**: [https://faucet.gorbagana.wtf/](https://faucet.gorbagana.wtf/)
 
-The official testnet faucet provides free GOR tokens for development and testing purposes. If you require more testnet tokens, please create a twitter post tagging [@gorbagana_chain](https://x.com/Gorbagana_chain) referencing the application you are building with your Github link as well as a wallet address for us to send more testnet tokens!
+The official testnet faucet provides free GOR tokens for development and testing purposes. If you require more testnet tokens, please create a twitter post tagging [@Gorbagana_Chain](https://x.com/Gorbagana_chain) referencing the application you are building with your Github link as well as a wallet address for us to send more testnet tokens!
 
 * **Amount per request**: 100 GOR tokens
 * **Rate limit**: 1 request per every 8 hours
