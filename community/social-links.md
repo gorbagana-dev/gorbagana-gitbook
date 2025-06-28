@@ -18,7 +18,6 @@ description: Don't let them steal your trash, only use these links!
 
 * [**@lex\_node**](https://x.com/lex_node) - Project Catalyst and Vision
 * [**@Sarv\_shaktiman**](https://x.com/Sarv_shaktiman) - Lead
-* [**@bit\_botanist**](https://x.com/bit_botanist) **-** Development
 * [**@afdudley0**](https://x.com/afdudley0) - Development
 * [**@\_TomHoward**](https://x.com/_TomHoward) - Core Contributor
 * [**@hella\_badid**](https://x.com/hella_badid) - Marketing and Social Media
@@ -34,12 +33,16 @@ description: Don't let them steal your trash, only use these links!
 * [**@savageapi**](https://x.com/savageapi)
 * [**@TheTokenSensei**](https://x.com/thetokensensei)
 
-### 🗑**Trash Council Members**
+### **🗑 Trash Council Members**
 
 * [**@lex\_node**](https://x.com/lex_node)
 * [**@neogio3d**](https://x.com/neogio3d)
 * [**@\_TomHoward**](https://x.com/_TomHoward)
 * [**@Sarv\_shaktiman**](https://x.com/Sarv_shaktiman)
+
+### Past Members (Thank you)
+
+* [**@bit\_botanist**](https://x.com/bit_botanist) **-** Testnet v1 original deployer
 
 ### 🔗 Technical Resources
 
