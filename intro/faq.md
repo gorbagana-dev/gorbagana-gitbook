@@ -8,7 +8,7 @@ Yes, $GOR is the only official token related to the Gorbagana chain. No other to
 
 ### Is there a $GOR token on Gorbagana?
 
-While we are in the development stage, the $GOR token on Testnet/Devnet have any value as these networks are for development purposes only.
+While we are in the development stage, the $GOR token on Testnet/Devnet does not have any value as these networks are for development purposes only.
 
 ### What is the plan for the $GOR token?
 
