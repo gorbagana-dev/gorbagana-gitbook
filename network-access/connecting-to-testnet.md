@@ -26,7 +26,7 @@ Backpack is currently the primary supported wallet for accessing the Gorbagana n
 2. Click settings and select 'Solana', then RPC Connection
 3. Click 'Custom' and add the Gorbagana RPC endpoint: `https://rpc.gorbagana.wtf/`
 4. Don't forget to click the update button at the bottom to save changes
-5. Viewing your wallet, you will see this 'Customer RPC' at the top, letting you know you're accessing the Gorbagana testnet
+5. Viewing your wallet, you will see this 'Custom RPC' at the top, letting you know you're accessing the Gorbagana testnet
 
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
