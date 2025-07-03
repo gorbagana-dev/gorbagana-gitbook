@@ -51,7 +51,7 @@ description: Don't let them steal your trash, only use these links!
 * **Faucet Airdrop:** [https://faucet.gorbagana.wtf/](https://faucet.gorbagana.wtf/)
 * **Validator Status:** [https://status.gorbagana.wtf/](https://status.gorbagana.wtf/)
 * **Block Explorer:** [https://explorer.gorbagana.wtf/](https://explorer.gorbagana.wtf/)
-* **Dev Fund Multi-Sig (2/3):** [62fw621KsHjW3oSU7yXjuwezU1Ssaxkj7qS8B4AAh69R](https://app.squads.so/squads/62fw621KsHjW3oSU7yXjuwezU1Ssaxkj7qS8B4AAh69R/home)
+* **Dev Fund Multi-Sig (2/3):** [62fw621KsHjW3oSU7yXjuwezU1Ssaxkj7qS8B4AAh69R](https://solscan.io/account/62fw621KsHjW3oSU7yXjuwezU1Ssaxkj7qS8B4AAh69R)
   * **Wallet 1:** [29gpCwH26oEFyqKe25KAM39VjeBhDWWHztoeuk4cZoM1](https://solscan.io/account/29gpCwH26oEFyqKe25KAM39VjeBhDWWHztoeuk4cZoM1)
   * **Wallet 2:** [3Cr1uptw6zAroHQskpPs4WJdZRrev8gHtEovNSTuR9nL](https://solscan.io/account/3Cr1uptw6zAroHQskpPs4WJdZRrev8gHtEovNSTuR9nL)
   * **Wallet 3:** [HknTjma28QSjweSLAPsMxpC1cqXxhq2RgzT753PDpCQN](https://solscan.io/account/HknTjma28QSjweSLAPsMxpC1cqXxhq2RgzT753PDpCQN)
