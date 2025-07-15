@@ -25,4 +25,3 @@
 ## Community
 
 * [Social Links](community/social-links.md)
-* [Contributing Guidelines](community/contributing-guidelines.md)
