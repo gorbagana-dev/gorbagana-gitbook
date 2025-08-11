@@ -36,7 +36,6 @@ description: Don't let them steal your trash, only use these links!
 ### Past Members (Thank you)
 
 * [**@bit\_botanist**](https://x.com/bit_botanist) **-** Testnet v1 original deployer
-* [**@Davidsidle**](https://x.com/davidsidol) - NFT Development Team
 
 ### 🔗 Technical Resources
 
