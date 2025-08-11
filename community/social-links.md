@@ -22,27 +22,21 @@ description: Don't let them steal your trash, only use these links!
 * [**@\_TomHoward**](https://x.com/_TomHoward) - Core Contributor
 * [**@hella\_badid**](https://x.com/hella_badid) - Marketing and Social Media
 * [**@Ec1ipse\_sol**](https://x.com/ec1ipse_sol) - Community Management
-* [**@Davidsidle**](https://x.com/davidsidol) - NFT Development Team
 
 ### **🔒Infra and Validator Security:**
 
-* Mojave Labs ([**@CLI\_App**](https://x.com/CLI_App))
 * Laconic ([**@laconicnetwork**](https://x.com/laconicnetwork))
-* [**@neogio3d**](https://x.com/neogio3d)
-* [**@davidsidol**](https://x.com/davidsidol)
-* [**@savageapi**](https://x.com/savageapi)
-* [**@TheTokenSensei**](https://x.com/thetokensensei)
 
 ### **🗑 Trash Council Members**
 
 * [**@lex\_node**](https://x.com/lex_node)
-* [**@neogio3d**](https://x.com/neogio3d)
 * [**@\_TomHoward**](https://x.com/_TomHoward)
 * [**@Sarv\_shaktiman**](https://x.com/Sarv_shaktiman)
 
 ### Past Members (Thank you)
 
 * [**@bit\_botanist**](https://x.com/bit_botanist) **-** Testnet v1 original deployer
+* [**@Davidsidle**](https://x.com/davidsidol) - NFT Development Team
 
 ### 🔗 Technical Resources
 
