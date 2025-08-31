@@ -4,7 +4,7 @@
 
 ### Network Explorer
 
-**Gorbagana Block Explorer**: [https://explorer.gorbagana.wtf/](https://explorer.gorbagana.wtf/)
+**Gorbagana Block Explorer**: [https://trashscan.io/](https://trashscan.io/)
 
 The official block explorer provides real-time network data including:
 
@@ -18,7 +18,7 @@ Use the explorer to verify transactions, monitor network health, and explore on-
 
 ### Network Statistics
 
-**Chain Status**: [https://status.gorbagana.wtf/](https://status.gorbagana.wtf/)
+**Chain Status**: [https://trashscan.xyz/validators](https://trashscan.xyz/validators)
 
 Comprehensive technical documentation including:
 
