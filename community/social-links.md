@@ -11,7 +11,8 @@ description: Don't let them steal your trash, only use these links!
 ### Official Gorbagana
 
 * **Twitter:** [@Gorbagana\_chain](https://x.com/Gorbagana_chain/)
-* **Website:** [https://gorbagana.wtf/](https://trashscan.io/)
+* **Website:** [https://gorbagana.wtf/](https://gorbagana.wtf/)
+* **Screener:** [https://trashscan.xyz/](https://trashscan.xyz/)
 * **Telegram:** [Official Community Chat](https://t.me/gorbagana_portal)
 
 ### &#x20;🤝Core Team & Contributors
