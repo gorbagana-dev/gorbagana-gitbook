@@ -1,0 +1,305 @@
+/* Dark Mode Theme for HonKit Documentation */
+
+:root {
+  --bg-primary: #1a1a1a;
+  --bg-secondary: #242424;
+  --bg-tertiary: #2d2d2d;
+  --bg-code: #282c34;
+  --text-primary: #e0e0e0;
+  --text-secondary: #b0b0b0;
+  --text-link: #58a6ff;
+  --text-link-hover: #79c0ff;
+  --border-color: #3a3a3a;
+  --sidebar-bg: #1f1f1f;
+  --header-bg: #161616;
+  --search-bg: #2a2a2a;
+  --code-text: #abb2bf;
+  --selection-bg: #3a4c5a;
+  --scrollbar-bg: #2d2d2d;
+  --scrollbar-thumb: #4a4a4a;
+}
+
+/* Base styles */
+body, .book {
+  background-color: var(--bg-primary) !important;
+  color: var(--text-primary) !important;
+}
+
+/* Book content area */
+.book-body {
+  background-color: var(--bg-primary) !important;
+  color: var(--text-primary) !important;
+}
+
+.page-wrapper {
+  background-color: var(--bg-primary) !important;
+}
+
+.page-inner {
+  color: var(--text-primary) !important;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+/* Markdown content */
+.markdown-section {
+  color: var(--text-primary) !important;
+}
+
+.markdown-section h1,
+.markdown-section h2,
+.markdown-section h3,
+.markdown-section h4,
+.markdown-section h5,
+.markdown-section h6 {
+  color: var(--text-primary) !important;
+  border-bottom-color: var(--border-color) !important;
+}
+
+.markdown-section p,
+.markdown-section ul,
+.markdown-section ol,
+.markdown-section dl,
+.markdown-section table {
+  color: var(--text-primary) !important;
+}
+
+.markdown-section a {
+  color: var(--text-link) !important;
+  text-decoration: none;
+}
+
+.markdown-section a:hover {
+  color: var(--text-link-hover) !important;
+  text-decoration: underline;
+}
+
+/* Code blocks */
+.markdown-section pre {
+  background-color: var(--bg-code) !important;
+  border: 1px solid var(--border-color) !important;
+}
+
+.markdown-section code {
+  background-color: var(--bg-tertiary) !important;
+  color: var(--code-text) !important;
+  padding: 2px 6px;
+  border-radius: 3px;
+}
+
+.markdown-section pre code {
+  background-color: transparent !important;
+  color: var(--code-text) !important;
+  padding: 0;
+}
+
+/* Blockquotes */
+.markdown-section blockquote {
+  background-color: var(--bg-secondary) !important;
+  border-left: 4px solid var(--text-link) !important;
+  color: var(--text-secondary) !important;
+}
+
+/* Tables */
+.markdown-section table {
+  background-color: var(--bg-secondary) !important;
+}
+
+.markdown-section table tr {
+  background-color: var(--bg-secondary) !important;
+  border-color: var(--border-color) !important;
+}
+
+.markdown-section table tr:nth-child(2n) {
+  background-color: var(--bg-tertiary) !important;
+}
+
+.markdown-section table th {
+  background-color: var(--bg-tertiary) !important;
+  color: var(--text-primary) !important;
+  border-color: var(--border-color) !important;
+}
+
+.markdown-section table td {
+  border-color: var(--border-color) !important;
+  color: var(--text-primary) !important;
+}
+
+/* Sidebar */
+.book-summary {
+  background-color: var(--sidebar-bg) !important;
+  border-right: 1px solid var(--border-color) !important;
+}
+
+.book-summary ul.summary li a,
+.book-summary ul.summary li span {
+  color: var(--text-secondary) !important;
+}
+
+.book-summary ul.summary li.active > a,
+.book-summary ul.summary li a:hover {
+  color: var(--text-primary) !important;
+  background-color: var(--bg-tertiary) !important;
+}
+
+.book-summary ul.summary li.divider {
+  background-color: var(--border-color) !important;
+}
+
+/* Header */
+.book-header {
+  background-color: var(--header-bg) !important;
+  border-bottom: 1px solid var(--border-color) !important;
+  color: var(--text-primary) !important;
+}
+
+.book-header .btn {
+  color: var(--text-secondary) !important;
+}
+
+.book-header .btn:hover {
+  color: var(--text-primary) !important;
+  background-color: var(--bg-tertiary) !important;
+}
+
+/* Search */
+#book-search-input {
+  background-color: var(--search-bg) !important;
+  border-bottom: 1px solid var(--border-color) !important;
+}
+
+#book-search-input input {
+  background-color: var(--search-bg) !important;
+  color: var(--text-primary) !important;
+  border: 1px solid var(--border-color) !important;
+}
+
+#book-search-input input:focus {
+  background-color: var(--bg-tertiary) !important;
+  border-color: var(--text-link) !important;
+}
+
+.search-results .search-results-item {
+  color: var(--text-primary) !important;
+  border-bottom: 1px solid var(--border-color) !important;
+}
+
+.search-results .search-results-item:hover {
+  background-color: var(--bg-tertiary) !important;
+}
+
+/* Navigation */
+.navigation {
+  color: var(--text-secondary) !important;
+}
+
+.navigation a {
+  color: var(--text-secondary) !important;
+}
+
+.navigation a:hover {
+  color: var(--text-primary) !important;
+}
+
+/* Font settings modal */
+.font-settings .font-settings-wrapper {
+  background-color: var(--bg-secondary) !important;
+  border: 1px solid var(--border-color) !important;
+}
+
+.font-settings .theme-list .theme-item {
+  background-color: var(--bg-tertiary) !important;
+  border: 1px solid var(--border-color) !important;
+}
+
+.font-settings .theme-list .theme-item.active {
+  border-color: var(--text-link) !important;
+}
+
+/* Dropdown menus */
+.dropdown-menu {
+  background-color: var(--bg-secondary) !important;
+  border: 1px solid var(--border-color) !important;
+}
+
+.dropdown-menu > li > a {
+  color: var(--text-primary) !important;
+}
+
+.dropdown-menu > li > a:hover {
+  background-color: var(--bg-tertiary) !important;
+}
+
+/* Selection */
+::selection {
+  background-color: var(--selection-bg) !important;
+  color: var(--text-primary) !important;
+}
+
+::-moz-selection {
+  background-color: var(--selection-bg) !important;
+  color: var(--text-primary) !important;
+}
+
+/* Scrollbar */
+::-webkit-scrollbar {
+  width: 12px;
+  height: 12px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--scrollbar-bg);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--scrollbar-thumb);
+  border-radius: 6px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #5a5a5a;
+}
+
+/* HR elements */
+.markdown-section hr {
+  background-color: var(--border-color) !important;
+}
+
+/* Lists */
+.markdown-section ul li,
+.markdown-section ol li {
+  color: var(--text-primary) !important;
+}
+
+/* Images */
+.markdown-section img {
+  border: 1px solid var(--border-color);
+  border-radius: 4px;
+}
+
+/* Alerts/Admonitions if used */
+.markdown-section .alert {
+  background-color: var(--bg-secondary) !important;
+  border-color: var(--border-color) !important;
+  color: var(--text-primary) !important;
+}
+
+.markdown-section .alert-info {
+  background-color: #1a3a52 !important;
+  border-color: #2c5282 !important;
+}
+
+.markdown-section .alert-warning {
+  background-color: #4a3a1a !important;
+  border-color: #826c2c !important;
+}
+
+.markdown-section .alert-danger {
+  background-color: #4a1a1a !important;
+  border-color: #822c2c !important;
+}
+
+.markdown-section .alert-success {
+  background-color: #1a4a1a !important;
+  border-color: #2c822c !important;
+}
