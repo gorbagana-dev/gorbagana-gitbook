@@ -1,0 +1,56 @@
+# HonKit build output
+_book/
+
+# Claude-specific files
+.claude/
+
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Package lock files (optional - you may want to keep these)
+package-lock.json
+yarn.lock
+
+# Development scripts (local only)
+serve-dev.js
+optimize-build.js
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+.temp/
+.tmp/
+
+# Log files
+*.log
+logs/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Coverage and test reports
+coverage/
+.nyc_output/
+
+# OS generated files
+desktop.ini
+.Spotlight-V100
+.Trashes
+
+# Local development cache
+.cache/
+.honkit/

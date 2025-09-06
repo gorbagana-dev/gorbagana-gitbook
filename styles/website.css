@@ -277,6 +277,18 @@ body, .book {
   border-radius: 4px;
 }
 
+/* Customize "Published with HonKit" footer */
+.gitbook-link {
+  color: var(--text-secondary) !important;
+  font-size: 0 !important;
+}
+
+.gitbook-link:after {
+  content: "Published with pure trash" !important;
+  font-size: 14px !important;
+  color: var(--text-secondary) !important;
+}
+
 /* Alerts/Admonitions if used */
 .markdown-section .alert {
   background-color: var(--bg-secondary) !important;

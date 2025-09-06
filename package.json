@@ -1,0 +1,19 @@
+{
+  "name": "gorbagana-docs",
+  "version": "1.0.0",
+  "description": "Gorbagana Documentation",
+  "scripts": {
+    "serve": "honkit serve . _book",
+    "build": "honkit build . _book",
+    "build:optimized": "honkit build . _book && node optimize-build.js",
+    "dev": "node serve-dev.js",
+    "watch": "nodemon --watch '**/*.md' --watch 'book.json' --watch 'SUMMARY.md' --watch 'styles/**/*.css' --ext md,json,css --exec 'honkit build . _book && honkit serve . _book'"
+  },
+  "devDependencies": {
+    "chokidar": "^3.5.3",
+    "nodemon": "^3.0.1"
+  },
+  "keywords": ["documentation", "honkit", "gorbagana"],
+  "author": "",
+  "license": "MIT"
+}
