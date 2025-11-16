@@ -1,11 +1,11 @@
 # Running Your RPC Node
 
-This guide covers deploying Gorchain nodes (validator, RPC, and monitoring) on production infrastructure using stack-orchestrator.
+This guide covers deploying Gorchain nodes (RPC and monitoring) on production infrastructure using stack-orchestrator.
 
 ## Prerequisites
 
 * `laconic-so` CLI installed
-* Gorchain stacks repository cloned to `~/workspace/gorchain-stacks/`
+* Gorchain stacks repository cloned to `~/workspace/gorchain-stacks/` ([GitHub](https://github.com/gorbagana-dev/gorchain-stacks))
 * SSL certificate and private key for envoy proxy (RPC node)
 
 ## Environment Setup
@@ -20,59 +20,6 @@ Create a directory to store persistent deployment files:
 
 ```bash
 mkdir ~/so-deploy
-```
-
-## Validator Deployment
-
-### 1. Build Container Images
-
-Build docker images using current state of repositories in stack definition (`$stacks/gorchain/stack.yml`):
-
-```bash
-laconic-so --stack $stacks/gorchain build-containers
-```
-
-### 2. Initialize Deployment
-
-Create spec files and deployment directory:
-
-```bash
-validator_spec=~/so-deploy/gorchain-spec.yml
-validator_deployment=~/so-deploy/gorchain-deployment
-
-# Use --cluster to set a predictable container name prefix
-laconic-so --stack $stacks/gorchain deploy init --output $validator_spec
-laconic-so --stack $stacks/gorchain deploy --cluster gorchain create \
-  --spec-file $validator_spec \
-  --deployment-dir $validator_deployment
-```
-
-### 3. Configure Environment Variables
-
-Set needed variables in the deployment environment:
-
-```bash
-cat > $validator_deployment/config.env <<EOF
-export RPC_PORT=7899
-export RPC_WS_PORT=7900
-export GOSSIP_PORT=7001
-export PUBLIC_GOSSIP_HOST=gorbagana.vaasl.io
-EOF
-```
-
-### 4. Migrate Data (Optional)
-
-If replacing an existing deployment, move the data into the new deployment:
-
-```bash
-rm -rf $validator_deployment/data
-mv $old_deployment/data $validator_deployment/data
-```
-
-### 5. Start the Validator
-
-```bash
-laconic-so deployment --dir $validator_deployment start
 ```
 
 ## RPC Node Deployment
@@ -132,6 +79,12 @@ EOF
 
 ```bash
 laconic-so deployment --dir $rpc_deployment start
+```
+
+**OR** run it like this:
+
+```bash
+laconic-so --stack ~/workspace/gorchain-stacks/stack-orchestrator/stacks/gorchain-rpc deploy --env-file ~/so-deploy/rpc-deployment/config.env up
 ```
 
 ## Monitoring Deployment
