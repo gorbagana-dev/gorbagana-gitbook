@@ -5,8 +5,8 @@ This page provides technical documentation, tools, and resources for running Gor
 ## Official Documentation
 
 * **Gorbagana Website:** [https://gorbagana.wtf/](https://gorbagana.wtf/)
-* **Block Explorer:** [https://trashscan.xyz/](https://trashscan.xyz/)
-* **Validator Status:** [https://trashscan.xyz/validators](https://trashscan.xyz/validators)
+* **Block Explorer:** [https://trashscan.gorbagana.wtf/](https://trashscan.gorbagana.wtf/)
+* **Validator Status:** [https://trashscan.gorbagana.wtf/validators](https://trashscan.gorbagana.wtf/validators)
 * **RPC Endpoint:** [https://rpc.gorbagana.wtf](https://rpc.gorbagana.wtf)
 
 ## Technical Resources
