@@ -1,10 +1,19 @@
 # Explorer & Tools
 
-### Official RPC endpoint: `https://rpc.gorbagana.wtf/`
+### RPC Endpoints
+
+**Official**
+
+* `https://rpc.gorbagana.wtf/`
+* `https://backpack.gorbagana.wtf/`
+
+**Community**
+
+* `https://rpc.trashscan.io/`
 
 ### Network Explorer
 
-**Gorbagana Block Explorer**: [https://trashscan.io/](https://trashscan.io/)
+**Gorbagana Block Explorer**: [https://explorer.gorbagana.wtf/](https://explorer.gorbagana.wtf/)
 
 The official block explorer provides real-time network data including:
 
@@ -18,7 +27,7 @@ Use the explorer to verify transactions, monitor network health, and explore on-
 
 ### Network Statistics
 
-**Chain Status**: [https://trashscan.xyz/validators](https://trashscan.xyz/validators)
+**Chain Status**: [https://explorer.gorbagana.wtf/validators](https://explorer.gorbagana.wtf/validators)
 
 Comprehensive technical documentation including:
 
